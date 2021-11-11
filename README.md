@@ -1,4 +1,4 @@
-# VGAT
+# VGAE
  PyG realisation of Variatianl AutoEncoder, based on [Variational Graph Auto-Encoders](http://arxiv.org/abs/1611.07308)。
 
 I use Cora as my dataset, and achieves nearly 87 to 91 for both AUC and AP. It's a little lower than the score in paper (91.4 and 92.6 for AUC and AP respectively), but I haven't fine-tuned the hyper-parameter. 
